@@ -1,0 +1,6 @@
+* {
+  box-sizing: border-box;
+}
+.high {
+    background-color: red;
+}
